@@ -1,0 +1,11 @@
+<package>
+  <description brief="Inpaint occlusion in Digital Elevation Maps (DEMs) using conventional CV2 methods such as for example Navier-Stokes or trained neural networks">
+  
+  </description>
+  <author>Maximilian Stölzle/maximilian.stoelzle@esa.int</author>
+  <license></license>
+  <url>http://https://github.com/esa-prl/perception-orogen-occlusion_inpainting.git</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+  <depend package="perception/occlusion_inpainting" />
+</package>
